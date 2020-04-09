@@ -1,0 +1,27 @@
+2020-03-15 16:17:20,251 - 139626269431616 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-15 16:17:24,246 - 139626269431616 - INFO - Category Found
+2020-03-15 16:17:24,258 - 139626269431616 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-15 16:17:24,258 - 139626269431616 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-15 16:17:31,427 - 139626269431616 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=2
+2020-03-15 16:17:35,208 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/Waterproof-Bluetooth-Smart-Watch-Phone-Mate-For-iphone-IOS-Android-Samsung-LG-B/133270159608?hash=item1f078540f8:m:mLiv5BWO4NjHeTta4gDS4wQ&var=432643494641
+2020-03-15 16:17:38,204 - 139626269431616 - INFO - True
+2020-03-15 16:17:43,209 - 139626269431616 - INFO - Querying https://www.ebay.com/p/239054690?iid=193243210701&var=493516499174&rt=nc
+2020-03-15 16:17:53,020 - 139626269431616 - INFO - Found {'title': 'Apple Watch Series 3 42mm Stainless Steel Case with Soft White Sport Band (GPS + Cellular) - (MQK82LL/A)', 'mpn': 'MQK82LL/A', 'brand': 'Apple'}
+2020-03-15 16:17:53,020 - 139626269431616 - INFO - True
+2020-03-15 16:17:58,025 - 139626269431616 - INFO - Querying https://www.ebay.com/p/27022421972?iid=143553862539&rt=nc
+2020-03-15 16:18:04,626 - 139626269431616 - INFO - Found {'title': 'Samsung Galaxy Watch SM-R800 46mm Silver Case Classic Buckle Onyx Black - Bluetooth', 'mpn': 'SM-R800NZSAXAR', 'brand': 'Samsung'}
+2020-03-15 16:18:04,626 - 139626269431616 - INFO - True
+2020-03-15 16:18:09,628 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/Reloj-pulsera-inteligente-deporte-fitness-smartband-similar-a-Xiaomi-Mi-Band-4/123869420920?hash=item1cd7315d78:g:0fwAAOSwtd5dTaFu
+2020-03-15 16:18:14,137 - 139626269431616 - INFO - True
+2020-03-15 16:18:19,139 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/Smart-Watch-Fitness-Sport-Activity-Tracker-Heart-Rate-Monitor-For-Android-iOS/372856326823?hash=item56cff80aa7:m:mmyxp8nYig5SYPEwTMyxA_A&var=641667848679
+2020-03-15 16:18:24,586 - 139626269431616 - INFO - True
+2020-03-15 16:18:29,590 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/For-Apple-Watch-Series-5-4-3-2-38-42mm-40-44mm-iWatch-Soft-TPU-Full-Cover-Case/153675098704?hash=item23c7bfea50:m:mhmsYNX8K4vE9dshcsCyJyQ&var=453691558856
+2020-03-15 16:18:33,149 - 139626269431616 - INFO - True
+2020-03-15 16:18:38,153 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/M4-GLOBAL-VERSION-Mi-Band-4-Smart-Watch-Wristband-Amoled-bluetooth-V4-0-2020/233514046821?hash=item365e859565:m:mNM4rCy18ZofN08qN9qD1dw&var=533146604106
+2020-03-15 16:18:41,296 - 139626269431616 - INFO - True
+2020-03-15 16:18:46,301 - 139626269431616 - INFO - Querying https://www.ebay.com/p/18036075091?iid=333238038404&rt=nc
+2020-03-15 16:18:48,942 - 139626269431616 - INFO - True
+2020-03-15 16:18:53,946 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/Sport-Health-Waterproof-Fitness-Smart-Watch-Activity-Tracker-Wrist-Band-Bracelet/333237729635?hash=item4d96843963:m:m2x_WEjE5q8K4udNOJ_zU4g&var=542250158236
+2020-03-15 16:19:00,033 - 139626269431616 - INFO - True
+2020-03-15 16:19:05,038 - 139626269431616 - INFO - Querying https://www.ebay.com/itm/SMARTWATCH-OROLOGIO-116PLUS-SMART-BAND-FITNESS-TRACKER-CARDIOFREQUENZIMETRO-NERO/133305973054?hash=item1f09a7b93e:g:B9UAAOSwdQFeIBBU
+2020-03-15 16:19:09,543 - 139626269431616 - INFO - True

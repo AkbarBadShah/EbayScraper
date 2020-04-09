@@ -1,0 +1,11 @@
+2020-03-15 16:20:52,525 - 140661430290240 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-15 16:20:58,041 - 140661430290240 - INFO - Category Found
+2020-03-15 16:20:58,053 - 140661430290240 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-15 16:20:58,053 - 140661430290240 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-15 16:21:01,321 - 140661430290240 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=2
+2020-03-15 16:21:05,023 - 140661430290240 - INFO - Querying https://www.ebay.com/itm/Waterproof-Bluetooth-Smart-Watch-Phone-Mate-For-iphone-IOS-Android-Samsung-LG-B/133270159608?hash=item1f078540f8:m:mLiv5BWO4NjHeTta4gDS4wQ&var=432643494641
+2020-03-15 16:21:09,448 - 140661430290240 - INFO - True
+2020-03-15 16:21:14,453 - 140661430290240 - INFO - Querying https://www.ebay.com/p/239054690?iid=193243210701&var=493516499174&rt=nc
+2020-03-15 16:21:17,502 - 140661430290240 - INFO - Found {'title': 'Apple Watch Series 3 42mm Stainless Steel Case with Soft White Sport Band (GPS + Cellular) - (MQK82LL/A)', 'mpn': 'MQK82LL/A', 'brand': 'Apple'}
+2020-03-15 16:21:17,502 - 140661430290240 - INFO - True
+2020-03-15 16:21:22,506 - 140661430290240 - INFO - Querying https://www.ebay.com/p/27022421972?iid=143553862539&rt=nc

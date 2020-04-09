@@ -1,0 +1,8 @@
+2020-03-14 02:30:50,254 - 140230326347584 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-14 02:30:59,186 - 140230326347584 - INFO - Category Found
+2020-03-14 02:30:59,198 - 140230326347584 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-14 02:30:59,198 - 140230326347584 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-14 02:31:02,735 - 140230326347584 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=2
+2020-03-14 02:31:05,128 - 140230326347584 - INFO - Querying https://www.ebay.com/itm/Waterproof-Bluetooth-Smart-Watch-Phone-Mate-For-iphone-IOS-Android-Samsung-LG-B/133270159608?hash=item1f078540f8:m:mLiv5BWO4NjHeTta4gDS4wQ&var=432643494641
+2020-03-14 02:31:08,487 - 140230326347584 - INFO - product without MPN!
+2020-03-14 02:31:08,487 - 140230326347584 - INFO - Querying https://www.ebay.com/p/27022421972?iid=143553862539&rt=nc

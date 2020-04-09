@@ -1,0 +1,63 @@
+2020-03-14 03:16:13,882 - 140590533728064 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-14 03:16:22,960 - 140590533728064 - INFO - Category Found
+2020-03-14 03:16:22,964 - 140590533728064 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-14 03:16:22,964 - 140590533728064 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-14 03:16:25,856 - 140590533728064 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=2
+2020-03-14 03:16:28,624 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Waterproof-Bluetooth-Smart-Watch-Phone-Mate-For-iphone-IOS-Android-Samsung-LG-B/133270159608?hash=item1f078540f8:m:mLiv5BWO4NjHeTta4gDS4wQ&var=432643494641
+2020-03-14 03:16:32,266 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:16:32,266 - 140590533728064 - INFO - Querying https://www.ebay.com/p/27022421972?iid=143553862539&rt=nc
+2020-03-14 03:16:35,435 - 140590533728064 - INFO - (<h1 class="product-title">Samsung Galaxy Watch SM-R800 46mm Silver Case Classic Buckle Onyx Black - Bluetooth</h1>, 'SM-R800NZSAXAR', <div class="s-name">Brand</div>)
+2020-03-14 03:16:40,440 - 140590533728064 - INFO - Querying https://www.ebay.com/p/239054690?iid=193243210701&var=493516499174&rt=nc
+2020-03-14 03:16:43,431 - 140590533728064 - INFO - (<h1 class="product-title">Apple Watch Series 3 42mm Stainless Steel Case with Soft White Sport Band (GPS + Cellular) - (MQK82LL/A)</h1>, 'MQK82LL/A', <div class="s-name">Brand</div>)
+2020-03-14 03:16:48,434 - 140590533728064 - INFO - Querying https://www.ebay.com/p/11029950839?iid=402159281835&rt=nc
+2020-03-14 03:16:50,433 - 140590533728064 - INFO - (<h1 class="product-title">Huawei Watch GT 35mm Stainless Steel Case Black Sport Band - 55023255</h1>, '55023255', <div class="s-name">Brand</div>)
+2020-03-14 03:16:55,436 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Smart-Watch-Fitness-Sport-Activity-Tracker-Heart-Rate-Monitor-For-Android-iOS/372856326823?hash=item56cff80aa7:m:mmyxp8nYig5SYPEwTMyxA_A&var=641667848679
+2020-03-14 03:16:58,411 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:16:58,411 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Reloj-pulsera-inteligente-deporte-fitness-smartband-similar-a-Xiaomi-Mi-Band-4/123869420920?hash=item1cd7315d78:g:0fwAAOSwtd5dTaFu
+2020-03-14 03:17:01,491 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:01,491 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/M4-GLOBAL-VERSION-Mi-Band-4-Smart-Watch-Wristband-Amoled-bluetooth-V4-0-2020/233514046821?hash=item365e859565:m:mNM4rCy18ZofN08qN9qD1dw&var=533146604107
+2020-03-14 03:17:05,099 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:05,099 - 140590533728064 - INFO - Querying https://www.ebay.com/p/18036075091?iid=333238038404&rt=nc
+2020-03-14 03:17:07,528 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:07,528 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Sport-Health-Waterproof-Fitness-Smart-Watch-Activity-Tracker-Wrist-Band-Bracelet/333237729635?hash=item4d96843963:m:m2x_WEjE5q8K4udNOJ_zU4g&var=542250158236
+2020-03-14 03:17:09,514 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:09,514 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Orologio-Smartwatch-Sportwatch-Android-Ios-Impermeabile-AmazFIT-Fitness-Tattico/193323785537?hash=item2d02fedd41:g:FIkAAOSwVDJeMWH4
+2020-03-14 03:17:13,479 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:13,479 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/bluetooth-Smart-Watch-Phone-Mate-SIM-FM-Pedometer-For-Android-IOS-iPhone-Samsung/163497590285?hash=item2611373e0d:m:mfzmqYpmnsKoBurlN5N9Kog&var=462860165432
+2020-03-14 03:17:15,828 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:15,830 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Apple-Watch-Series-2-42mm-Gold-Aluminium-Case/114148371966?hash=item1a93c5edfe:g:JQYAAOSw9jdea~RK
+2020-03-14 03:17:19,288 - 140590533728064 - INFO - (<h1 class="it-ttl" id="itemTitle" itemprop="name"><span class="g-hdn">Details about   </span>Apple Watch Series 2, 42mm Gold Aluminium Case</h1>, 'MNPL2B/A', <h2 itemprop="brand" itemscope="itemscope" itemtype="http://schema.org/Brand"><span itemprop="name">Apple</span></h2>)
+2020-03-14 03:17:24,293 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/For-Apple-Watch-Series-5-4-3-2-38-42mm-40-44mm-iWatch-Soft-TPU-Full-Cover-Case/153675098704?hash=item23c7bfea50:m:mhmsYNX8K4vE9dshcsCyJyQ&var=453691558856
+2020-03-14 03:17:27,806 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:27,806 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Fitness-Smart-Watch-Activity-Tracker-WomenMen-Kids-Fitbit-Android-iOS-Heart-Rate/293354961786?hash=item444d517b7a:m:miLl7okN91f6Nq0miAexJoQ&var=592203758091
+2020-03-14 03:17:31,670 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:31,670 - 140590533728064 - INFO - Querying https://www.ebay.com/p/9033751028?iid=184164356975&rt=nc
+2020-03-14 03:17:34,999 - 140590533728064 - INFO - (<h1 class="product-title">Samsung Galaxy Watch Active 2 SM-R825 44mm Stainless Steel Case with Leather Strap Smartwatch - Black (LTE)</h1>, 'SM-R825USKAXAR', <div class="s-name">Brand</div>)
+2020-03-14 03:17:40,001 - 140590533728064 - INFO - Querying https://www.ebay.com/p/4033752973?iid=223945620174&rt=nc
+2020-03-14 03:17:41,858 - 140590533728064 - INFO - (<h1 class="product-title">Samsung Galaxy Watch Active 2 SM-R825 44mm Gold-Tone Stainless Steel Case with Brown Leather Strap Smartwatch (LTE)</h1>, 'SM-R825USDAXAR', <div class="s-name">Brand</div>)
+2020-03-14 03:17:46,863 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Montre-Connectee-Sport-Homme-Femme-Bluetooth-Android-Ios-Iphone-Samsung-Huawei/164085506307?hash=item2634422103:m:mzCiw4ViiK3phQM42jPIKbw&var=463704575450
+2020-03-14 03:17:49,260 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:49,260 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Bluetooth-Smart-Watch-Blood-Pressure-Heart-Rate-Fitness-Tracker-For-Android-iOS/362766460818?hash=item547690e792:m:mXdvtC7s_uQ9e6ukC90fXsQ&var=631921095400
+2020-03-14 03:17:51,221 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:51,221 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Samsung-Gear-Fit-2-Pro-Fitness-Smartwatch-SM-R365-Black-and-Red/333157288403?hash=item4d91b8c9d3:m:miZhmO36e2T9cZBJ5TmC3cg&var=542177211824
+2020-03-14 03:17:53,220 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:53,220 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/SMARTWATCH-OROLOGIO-116PLUS-SMART-BAND-FITNESS-TRACKER-CARDIOFREQUENZIMETRO-NERO/133305973054?hash=item1f09a7b93e:g:B9UAAOSwdQFeIBBU
+2020-03-14 03:17:55,805 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:55,806 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Samsung-galaxy-active-watch/202933559340?hash=item2f3fc8602c:g:RI8AAOSwlNpea96V
+2020-03-14 03:17:58,091 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:17:58,092 - 140590533728064 - INFO - Querying https://www.ebay.com/p/7033763465?iid=223945543193&rt=nc
+2020-03-14 03:18:00,372 - 140590533728064 - INFO - (<h1 class="product-title">Samsung Galaxy Watch Active 2 SM-R820 44mm Aluminum Case with Sport Band Smartwatch - Aqua Black (Bluetooth)</h1>, 'SM-R820NZKAXAR', <div class="s-name">Brand</div>)
+2020-03-14 03:18:05,374 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Moto-360-Smart-Watch-2nd-Gen-42mm-Rose-Gold-Woman-Android-Wear-Steel-strap/164083271136?hash=item26342005e0:g:WC8AAOSwGC9eSCNw
+2020-03-14 03:18:07,343 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:18:07,343 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/2020-W68-Smart-Watch-Men-Women-Series-W68-Smartwatch-Heart-Rate-Touch-Screen-USA/352917128860?hash=item522b80069c:m:mI0FiUAzn-mgBctJvFGQbQg&var=622170542028
+2020-03-14 03:18:09,403 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:18:09,403 - 140590533728064 - INFO - Querying https://www.ebay.com/p/21034752672?iid=372986208480&rt=nc
+2020-03-14 03:18:11,411 - 140590533728064 - INFO - (<h1 class="product-title">Huawei Watch GT 2 46mm Metal Case Orange Smartwatch (55024321)</h1>, '55024321', <div class="s-name">Brand</div>)
+2020-03-14 03:18:16,412 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Bluetooth-Smart-Watch-Heart-Rate-Blood-Pressure-Monitor-Sport-Fitness-Tracker/113990689288?hash=item1a8a5fe208:m:mhQcihtuIq11kMamtRUj4CQ&var=414272312863
+2020-03-14 03:18:19,160 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:18:19,161 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/I-Watch-Series-3-42mm-Cell-And-Gps/293510010307?hash=item44568f55c3:g:pQwAAOSwmjdea7re
+2020-03-14 03:18:21,401 - 140590533728064 - INFO - product without MPN!
+2020-03-14 03:18:21,401 - 140590533728064 - INFO - Querying https://www.ebay.com/p/228625595?iid=264666219972&rt=nc
+2020-03-14 03:18:24,417 - 140590533728064 - INFO - (<h1 class="product-title">Apple Watch Series 1 38mm Rose Gold Aluminium Case Pink Sand Sport Band - (MNNH2B/A)</h1>, 'MNNH2B/A', <div class="s-name">Brand</div>)
+2020-03-14 03:18:29,422 - 140590533728064 - INFO - Querying https://www.ebay.com/itm/Smart-Watch-Fitness-Tracker-Fitbit-Bluetooth-Step-Caolorie-Sport-Android-iPhone/392266178943?hash=item5b54e2e17f:g:P4AAAOSwtpFcmeBv
+2020-03-14 03:18:32,295 - 140590533728064 - INFO - (<h1 class="it-ttl" id="itemTitle" itemprop="name"><span class="g-hdn">Details about   </span>Smart Watch Fitness Tracker Fitbit Bluetooth Step Caolorie Sport Android iPhone </h1>, '115', <h2 itemprop="brand" itemscope="itemscope" itemtype="http://schema.org/Brand"><span itemprop="name">JBTech</span></h2>)

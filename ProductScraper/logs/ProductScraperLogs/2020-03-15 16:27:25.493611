@@ -1,0 +1,35 @@
+2020-03-15 16:27:25,495 - 140455467595584 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-15 16:27:39,695 - 140455467595584 - INFO - Category Found
+2020-03-15 16:27:39,707 - 140455467595584 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-15 16:27:39,707 - 140455467595584 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-15 16:27:43,862 - 140455467595584 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=2
+2020-03-15 16:27:47,156 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/Waterproof-Bluetooth-Smart-Watch-Phone-Mate-For-iphone-IOS-Android-Samsung-LG-B/133270159608?hash=item1f078540f8:m:mLiv5BWO4NjHeTta4gDS4wQ&var=432643494641
+2020-03-15 16:27:49,397 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:27:49,397 - 140455467595584 - INFO - True
+2020-03-15 16:27:54,402 - 140455467595584 - INFO - Querying https://www.ebay.com/p/239054690?iid=193243210701&var=493516499174&rt=nc
+2020-03-15 16:27:58,937 - 140455467595584 - INFO - Found {'title': 'Apple Watch Series 3 42mm Stainless Steel Case with Soft White Sport Band (GPS + Cellular) - (MQK82LL/A)', 'mpn': 'MQK82LL/A', 'brand': 'Apple'}
+2020-03-15 16:27:58,938 - 140455467595584 - INFO - True
+2020-03-15 16:28:03,940 - 140455467595584 - INFO - Querying https://www.ebay.com/p/27022421972?iid=143553862539&rt=nc
+2020-03-15 16:28:07,735 - 140455467595584 - INFO - Found {'title': 'Samsung Galaxy Watch SM-R800 46mm Silver Case Classic Buckle Onyx Black - Bluetooth', 'mpn': 'SM-R800NZSAXAR', 'brand': 'Samsung'}
+2020-03-15 16:28:07,736 - 140455467595584 - INFO - True
+2020-03-15 16:28:12,740 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/Reloj-pulsera-inteligente-deporte-fitness-smartband-similar-a-Xiaomi-Mi-Band-4/123869420920?hash=item1cd7315d78:g:0fwAAOSwtd5dTaFu
+2020-03-15 16:28:16,355 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:28:16,355 - 140455467595584 - INFO - True
+2020-03-15 16:28:21,357 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/Smart-Watch-Fitness-Sport-Activity-Tracker-Heart-Rate-Monitor-For-Android-iOS/372856326823?hash=item56cff80aa7:m:mmyxp8nYig5SYPEwTMyxA_A&var=641667848679
+2020-03-15 16:28:26,437 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:28:26,438 - 140455467595584 - INFO - True
+2020-03-15 16:28:31,442 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/For-Apple-Watch-Series-5-4-3-2-38-42mm-40-44mm-iWatch-Soft-TPU-Full-Cover-Case/153675098704?hash=item23c7bfea50:m:mhmsYNX8K4vE9dshcsCyJyQ&var=453691558856
+2020-03-15 16:28:36,254 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:28:36,255 - 140455467595584 - INFO - True
+2020-03-15 16:28:41,258 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/M4-GLOBAL-VERSION-Mi-Band-4-Smart-Watch-Wristband-Amoled-bluetooth-V4-0-2020/233514046821?hash=item365e859565:m:mNM4rCy18ZofN08qN9qD1dw&var=533146604106
+2020-03-15 16:28:43,809 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:28:43,809 - 140455467595584 - INFO - True
+2020-03-15 16:28:48,810 - 140455467595584 - INFO - Querying https://www.ebay.com/p/18036075091?iid=333238038404&rt=nc
+2020-03-15 16:28:51,203 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:28:51,204 - 140455467595584 - INFO - True
+2020-03-15 16:28:56,207 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/Sport-Health-Waterproof-Fitness-Smart-Watch-Activity-Tracker-Wrist-Band-Bracelet/333237729635?hash=item4d96843963:m:m2x_WEjE5q8K4udNOJ_zU4g&var=542250158236
+2020-03-15 16:29:02,537 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:29:02,537 - 140455467595584 - INFO - True
+2020-03-15 16:29:07,542 - 140455467595584 - INFO - Querying https://www.ebay.com/itm/SMARTWATCH-OROLOGIO-116PLUS-SMART-BAND-FITNESS-TRACKER-CARDIOFREQUENZIMETRO-NERO/133305973054?hash=item1f09a7b93e:g:B9UAAOSwdQFeIBBU
+2020-03-15 16:29:11,936 - 140455467595584 - INFO - product without MPN, rejected!
+2020-03-15 16:29:11,936 - 140455467595584 - INFO - True

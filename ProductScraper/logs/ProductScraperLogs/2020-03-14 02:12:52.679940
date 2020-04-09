@@ -1,0 +1,5 @@
+2020-03-14 02:12:52,681 - 140675203680064 - INFO - Querying https://www.ebay.com/n/all-categories
+2020-03-14 02:12:56,695 - 140675203680064 - INFO - Category Found
+2020-03-14 02:12:56,706 - 140675203680064 - INFO - https://www.ebay.com/b/Smart-Watches/178893/bn_152365
+2020-03-14 02:12:56,706 - 140675203680064 - INFO - Querying https://www.ebay.com/b/Smart-Watches/178893/bn_152365?_pgn=1
+2020-03-14 02:12:59,432 - 140675203680064 - INFO - no item on the page!
